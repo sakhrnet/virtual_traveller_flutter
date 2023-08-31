@@ -9,12 +9,12 @@ class Secrets {
   /// Obtain an Amadeus API key from here:
   ///
   /// [https://developers.amadeus.com/register](https://developers.amadeus.com/register)
-  static const amadeusApiKey = 'SecretsHidden.amadeusApiKey';
+  static const amadeusApiKey = 'GjXiQuZVk8oj7fc39TxtZ1eYxBEEO1sR';
 
   /// Obtain an Amadeus Secret API key from here:
   ///
   /// [https://developers.amadeus.com/register](https://developers.amadeus.com/register)
-  static const amadeusSecretKey = 'SecretsHidden.amadeusSecretKey';
+  static const amadeusSecretKey = 'XwI3Ehg71uPfJ9DW';
 
   /// Obtain - key from here:
   ///
